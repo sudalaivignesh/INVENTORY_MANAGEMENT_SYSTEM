@@ -156,5 +156,4 @@ elif (user_input=='e'):
 else:
   print("please enter valid input")
 
-products
 
