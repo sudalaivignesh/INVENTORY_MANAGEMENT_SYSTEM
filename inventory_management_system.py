@@ -162,6 +162,3 @@ elif (user_input=='e'):
   edit()
 else:
   print("please enter valid input")
-
-products['p023']
-
